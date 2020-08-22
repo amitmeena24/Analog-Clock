@@ -1,2 +1,2 @@
-# Analog-Clock
- This a an analog clocks built using HTML,CSS and javascript.
+# Analog-Clocks
+I built analog clocks using HTML, CSS and JavaScript.
